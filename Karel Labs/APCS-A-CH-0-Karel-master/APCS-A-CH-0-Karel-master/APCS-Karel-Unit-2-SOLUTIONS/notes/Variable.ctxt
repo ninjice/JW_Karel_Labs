@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ localVariable()
+comment0.text=\r\n\ Local\ variables\ exist\ when\ declared\ within\ a\ method\r\n
+comment1.params=
+comment1.target=void\ instanceVariables()
+comment1.text=\r\n\ You\ can\ access\ instance\ variables\ from\ any\ method.\ \ If\ you\ change\ them\ in\ the\ method\ then\r\n\ the\ change\ "sticks"\r\n
+comment2.params=value
+comment2.target=void\ usingParams(int)
+comment2.text=\r\n\ You\ can\ also\ pass\ data\ via\ parameters.\ \ However,\ you\ get\ a\ copy\ of\ that\ passed\ to\ the\ method\ \r\n
+comment3.params=value
+comment3.target=void\ print(int)
+comment3.text=\r\n\ This\ method\ is\ used\ to\ print\ out\ the\ values\ of\ the\ variable\ steps\ (int)\r\n
+comment4.params=value
+comment4.target=void\ print(boolean)
+comment4.text=\r\n\ This\ method\ is\ used\ to\ print\ out\ the\ values\ of\ the\ variable\ steps\ (int)\r\n
+comment5.params=
+comment5.target=boolean\ getBlocked()
+comment5.text=\r\n\ Getter\ for\ instance\ variable\ blocked.\r\n
+numComments=6

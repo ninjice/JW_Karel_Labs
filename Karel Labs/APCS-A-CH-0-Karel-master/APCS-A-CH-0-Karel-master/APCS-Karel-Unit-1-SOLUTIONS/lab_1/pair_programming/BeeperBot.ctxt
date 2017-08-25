@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ findAllBeepers()
+comment0.text=\n\ Precondition\:\ \ robot\ is\ at\ 1st\ AVE\ and\ 4th\ ST\ facing\ west\n\ Postcondition\:\ \ robot\ will\ have\ 4\ beepers\n
+comment1.params=
+comment1.target=void\ findFirstBeeper()
+comment1.text=\n\ Precondition\:\ \ Test\n\ Postcondition\:\ Testing\n
+comment2.params=
+comment2.target=void\ findNextBeeper()
+comment2.text=\n\ Precondition\:\ Assumes\ Karel\ is\ three\ steps\ above\ beeper\n\ Postcondition\:\ \ Will\ be\ on\ a\ beeper\n
+comment3.params=
+comment3.target=void\ pickTwoBeepers()
+comment3.text=\n\ Another\ comment--after\ clone\n
+comment4.params=
+comment4.target=void\ moveThree()
+comment5.params=
+comment5.target=void\ turnAround()
+comment6.params=
+comment6.target=void\ turnRight()
+numComments=7

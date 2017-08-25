@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ carpetRooms()
+comment0.text=\r\n\ JavaDoc\ Comment\r\n\ \r\n\ This\ method\ will\ place\ a\ beeper\ in\ a\ room,\ defined\ by\ walls\ on\ the\ East,\ North,\ West\r\n\ \r\n\ Precondition\:\ \ Robot\ must\ have\ 10\ beepers\r\n\ Postcondition\:\ \ Robot\ is\ left\ facing\ East,\ with\ no\ Beepers\r\n
+numComments=1

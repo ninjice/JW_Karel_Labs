@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ runRace()
+comment0.text=\r\n\ This\ will\ pickup\ columns\ of\ beepers\ until\ it\ has\ a\ wall\ while\ facing\ east\r\n
+comment1.params=
+comment1.target=void\ findColumnOfBeepers()
+comment1.text=\r\n\ Will\ face\ a\ robot\ east\ and\ move\ until\ locating\ a\ beeper\r\n
+comment2.params=
+comment2.target=void\ pickBeeperColumn()
+comment2.text=\r\n\ This\ will\ face\ a\ robot\ north\ and\ collect\ a\ vertical\ column\ of\ beepers\r\n\ Assume\:\ \ Only\ one\ beeper\ on\ a\ corner\r\n
+comment3.params=
+comment3.target=void\ returnToFloor()
+comment3.text=\r\n\ Will\ turn\ a\ robot\ south\ and\ move\ until\ blocked.\ \r\n
+comment4.params=
+comment4.target=void\ faceEast()
+comment4.text=\r\n\ Will\ leave\ a\ robot\ facing\ east\r\n
+comment5.params=
+comment5.target=void\ faceNorth()
+comment5.text=\r\n\ Will\ leave\ a\ robot\ facing\ east\r\n
+comment6.params=
+comment6.target=void\ faceSouth()
+comment6.text=\r\n\ Will\ leave\ a\ robot\ facing\ east\r\n
+numComments=7

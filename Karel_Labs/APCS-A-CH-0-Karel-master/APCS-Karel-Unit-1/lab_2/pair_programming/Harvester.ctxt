@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Harvester
+comment0.text=\r\n\ @author\ \:\r\n\ teacher\ \:\r\n\ due\ date\:\r\n
+comment1.params=
+comment1.target=void\ harvest()
+comment2.params=
+comment2.target=void\ HarvestTwoRows()
+comment2.text=\r\n\ Precondition\:\ \ \ \ Robot\ facing\ east\ one\ block\ away\ from\ a\ row\ of\ beepers\r\n\ Postcondition\:\ \ \ RObot\ facing\ east,\ two\ streets\ above\ where\ it\ started,\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ one\ block\ away\ from\ a\ beeper.\r\n
+comment3.params=
+comment3.target=void\ harvestOneRow()
+comment4.params=
+comment4.target=void\ turnRight()
+comment5.params=
+comment5.target=void\ repositionToright()
+numComments=6

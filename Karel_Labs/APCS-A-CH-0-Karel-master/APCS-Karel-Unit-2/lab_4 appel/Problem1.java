@@ -17,10 +17,10 @@ public class Problem1 extends Robot
             move();
         }
         
-        checkWall();
+        findExit();
         
     }
-    public void checkWall(){
+    public void findExit(){
         while(true){
             if (!frontIsClear()){
                 turnLeft();
